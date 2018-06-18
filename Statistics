@@ -1,10 +1,14 @@
 Target 1: 150 problems till September 2018.
+
 -------------------------------------------
 Topics covered:
 MATH: Big-O,
 DS: Stack, Queue, Deque, List, LinkedList  
 ALGO: Recursion, Dynamic programming, Backtracking
 
+-------------------------------------------
+
+Notes: without sign - solved without help, ! - used solution help, !! - used solution, but it took too long time to understand solution.
 -------------------------------------------
 
 
@@ -16,3 +20,4 @@ June 2018
 
 15 - 64, 62
 17 - 413, 303, 198
+18 - 813!!
