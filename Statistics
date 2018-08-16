@@ -16,11 +16,11 @@ Data Structures:
                 4) Stack 
                 5) Queue
 Algorithms: 
-            Arrays:
-                  Searching: Linear, Binary Search
-                  Sorting: Bubble Sort, Selection Sort, Insertion Sort, QuickSort, ShellSort, 
+            1) Arrays:
+                  a) Searching: Linear, Binary Search
+                  b) Sorting: Bubble Sort, Selection Sort, Insertion Sort, QuickSort, ShellSort, 
                            MergeSort, QuickSort, CountingSort, RadixSort, BucketSort.
-                  K-th largest/smallest element: QuickSelect
+                  c) K-th largest/smallest element: QuickSelect
 
 -------------------------------------------
 
