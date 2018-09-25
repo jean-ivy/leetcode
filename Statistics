@@ -13,6 +13,11 @@ Data Structures:
                 3) LinkedList 
                 4) Stack 
                 5) Queue
+                6) Tree
+                    a) Heap
+                    b) BST
+                    c) Trie
+                    
 Algorithms: 
             1) Arrays:
                   a) Searching: Linear, Binary Search
@@ -20,6 +25,8 @@ Algorithms:
                            MergeSort, QuickSort, CountingSort, RadixSort, BucketSort.
                   c) K-th largest/smallest element: QuickSelect
                   d) Dutch Flag Problem (One pass, O(1) Space)
+            2) Tree
+                  a) Traversals
 
 -------------------------------------------
 
