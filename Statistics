@@ -21,8 +21,7 @@ Data Structures:
 Algorithms: 
             1) Arrays:
                   a) Searching: Linear, Binary Search
-                  b) Sorting: Bubble Sort, Selection Sort, Insertion Sort, QuickSort, ShellSort, 
-                           MergeSort, QuickSort, CountingSort, RadixSort, BucketSort.
+                  b) Sorting: Bubble Sort, Selection Sort, Insertion Sort, QuickSort, MergeSort, QuickSort
                   c) K-th largest/smallest element: QuickSelect
                   d) Dutch Flag Problem (One pass, O(1) Space)
             2) Tree
